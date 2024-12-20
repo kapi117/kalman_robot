@@ -1,6 +1,7 @@
 [submodule "unity_sim"]
 	path = vendor/unity_sim
-	url = ../../agh-space-systems-rover/unity_sim.git
+	url = git@github.com:kapi117/unity_sim.git
+	branch = main
 [submodule "kalman_yolo"]
 	path = kalman_yolo
 	url = ../../agh-space-systems-rover/kalman_yolo.git
